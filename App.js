@@ -13,6 +13,7 @@ export default class App extends Component {
         <View style={{alignItems:'center',justifyContent:'center',height:'100%'}}>
           <SOSButton />
           <Text> Hello How can I help?</Text>
+          <Text> You know I can help!</Text
         </View>
       </View>
 
